@@ -4,9 +4,9 @@
 ---
 
 - 🔭 I’m currently studying : `Information System` 
-- 🌱 I’m currently learning: `Python`, `Java`, `C++`
+- 🌱 I’m currently learning: `Python`, `Java`, `C++` (w/gpt tapi xixixi)
 - 📫 How to reach me: [Instagram](https://instagram.com/nslsabilaaa_) | [LinkedIn](https://www.linkedin.com/in/nabila-salsabila-964511358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: bukan sulap, tapi she/her
 - ⚡ Fun fact: I'm a sleepy person 💤
 
 ---
@@ -17,7 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TAPI BOONK HAYYUK]
 ---
 
 ### 📊 GitHub Stats
@@ -29,4 +28,4 @@
 ---
 
 ### 🎯 Quote of the Day
-> “Yap life goes on, so jalanin aja.” ✨
+> “Yap life goes on, so jalanin aja.” 
