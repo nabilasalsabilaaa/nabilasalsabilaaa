@@ -29,7 +29,10 @@
 
 ---
 
-![GitHub Snake](https://github.com/nabilasalsabilaaa/nabilasalsabilaaa/blob/output/github-contribution-grid-snake.gif?raw=true)
+## 🐍 My GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🎯 Quote of the Day
