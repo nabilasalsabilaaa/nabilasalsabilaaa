@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Salsa! 👋</h1>
 <h3 align="center">💻 Student at Hasanuddin University 🏢</h3>
-## 👁️ Visitors
-
-![Visitor Count](https://hitwebcounter.com/counter/counter.php?page=20755211&style=0036&nbdigits=4&type=page&initCount=0)
-
 
 
 
@@ -32,6 +28,9 @@
 </p>
 
 ---
+
+![GitHub Snake](https://github.com/nabilasalsabilaaa/nabilasalsabilaaa/blob/output/github-contribution-grid-snake.gif?raw=true)
+
 
 ### 🎯 Quote of the Day
 > “Yap life goes on, so jalanin aja.” 
