@@ -29,14 +29,5 @@
 
 ---
 
-## 🐍 My GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/output/github-contribution-grid-snake.svg)
-
-## 🐍 My GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/output/github-contribution-grid-snake.svg)
-
-
 ### 🎯 Quote of the Day
 > “Yap life goes on, so jalanin aja.” 
