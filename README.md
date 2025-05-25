@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Salsa! 👋</h1>
 <h3 align="center">💻 Student at Hasanuddin University 🏢</h3>
-![Visitor Count](https://komarev.com/ghpvc/?nabilasalsabilaaa=sal&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=nabilasalsabilaaa&color=blue)
+
 
 
 ---
