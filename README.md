@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Salsa! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77070&center=true&vCenter=true&width=435&lines=💻+Information+System+Student;🐣+Still+Learning+Python%2C+Java%2C+C%2B%2B;☕+Ngoding+w%2F+GPT+hehe;😴+Ngantuk+terus+tapi+semangattt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F77070&center=true&vCenter=true&width=435&lines=Information+System+Student;Still+Learning+Python,+Java,+C++;Ngoding+with+GPT;Ngantuk+terus+tapi+semangat" alt="Typing SVG" />
 </p>
 
 <p align="center">
