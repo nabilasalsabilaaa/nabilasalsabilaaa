@@ -20,7 +20,7 @@
 
 </td>
     <td valign="top" width="40%" style="padding: 0; margin: 0; text-align: left">
-      <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" height="200"/>
+      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
     </td>
   </tr>
 </table>
