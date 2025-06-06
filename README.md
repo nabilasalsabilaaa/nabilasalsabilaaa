@@ -18,8 +18,10 @@
 - 😴 Fun fact: `Turu number one`
 
 </td>
-    <td valign="top" width="40%" style="padding: 0; margin: 0; text-align: right">
+    <td valign="top" width="40%" 
+      <p align=right">
       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+      </p>
     </td>
   </tr>
 </table>
