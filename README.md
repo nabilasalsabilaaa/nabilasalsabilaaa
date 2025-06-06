@@ -13,8 +13,7 @@
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
 - 📱 Reach me on:  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nslsabilaaa_)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-salsabila-964511358)  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nslsabilaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-salsabila-964511358)  
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
 
