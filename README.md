@@ -1,21 +1,29 @@
 <h1 align="center">Hi, I'm Salsa! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron+Code&size=22&duration=3000&pause=1000&color=11336E&center=true&vCenter=true&width=435&lines=Information+System+Student;At+Hasanuddin+University" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" height="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=11336E&center=true&vCenter=true&width=435&lines=Information+System+Student;At+Hasanuddin+University" alt="Typing SVG" />
 </p>
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
 - 📱 Reach me on:  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nslsabilaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-salsabila-964511358)  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nslsabilaaa_)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-salsabila-964511358)  
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
+
+</td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,5 +58,3 @@
 
 ### 🎯 Quote of the Day
 > “Yap life goes on, so jalanin aja.”
-
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzcxMzQ1MGNiNmVhMGM4M2FiYmY0OGE0YTFlM2Y4N2NjNDVmYTk2OCZjdD1n/Gf3fU0qPtI6uk/giphy.gif" width="300"/> </p>
