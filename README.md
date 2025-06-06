@@ -19,7 +19,7 @@
 
 </td>
     <td valign="top" width="40%" 
-      <p align=right">
+      <p align="right">
       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
       </p>
     </td>
