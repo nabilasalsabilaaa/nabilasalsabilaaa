@@ -1,23 +1,22 @@
 <h1 align="center">Hi, I'm Salsa! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F77070&center=true&vCenter=true&width=435&lines=Information+System+Student;Still+Learning+Python,+Java,+C++;Ngoding+with+GPT;Ngantuk+terus+tapi+semangat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=11336E&center=true&vCenter=true&width=435&lines=Information+System+Student;At+Hasanuddin+University" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" height="200"/>
+  <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://images.app.goo.gl/qnTxR6T6uzyTazQZ9)" width="200" height="200"/>
 </p>
 
 ---
 
 ### 🎓 About Me
-- 👩‍🎓 Currently studying: `Information System` @ Hasanuddin University  
-- 🌱 Learning: `Python`, `Java`, `C++` (w/ GPT xixixi)  
+- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
 - 📱 Reach me on:  
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nslsabilaaa_)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-salsabila-964511358)  
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
-- 😴 Fun fact: `I'm a sleepy person alias ngantuk mulu`
+- 😴 Fun fact: `Turu number one`
 
 ---
 
@@ -25,8 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-> `tapi remed awokawok`
 
 ---
 
@@ -53,7 +50,6 @@
 ---
 
 ### ⏳ Weekly Coding Stats (via WakaTime)
-> _(kamu harus integrasi akun dulu di wakatime.com dan aktifkan plugin di VSCode atau IDE kamu)_
 
 ```md
 <!--START_SECTION:waka-->
