@@ -19,7 +19,7 @@
 - 😴 Fun fact: `Turu number one`
 
 </td>
-    <td valign="top" align="left" width="40%">
+    <td valign="top" width="40%" style="padding: 0; margin: 0; text-align: left">
       <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" height="200"/>
     </td>
   </tr>
