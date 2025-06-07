@@ -6,15 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=11336E&center=true&vCenter=true&width=435&lines=Information+System+Student;At+Hasanuddin+University" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/nabilasalsabilaa/count.svg" alt="Profile Visit Counter" />
 </p>
 
 ---
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
 
