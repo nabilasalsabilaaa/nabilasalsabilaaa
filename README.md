@@ -20,7 +20,8 @@
 
 ### 🎓 About Me
 - 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
-- 📱 Reach me on:  
+- 📱 Reach me on:
+  
   <a href="https://instagram.com/nslsabilaaa_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -32,7 +33,7 @@
 
     </td>
     <td>
-       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="200" />
+       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="300" />
     </td>
   </tr>
 </table>
