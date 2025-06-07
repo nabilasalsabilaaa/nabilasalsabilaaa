@@ -31,7 +31,7 @@
     </td>
 <td width="40%" align="right" valign="top" style="border: none; background: transparent; text-align: right;">
   <div align="right">
-    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
+    <img src="https://raw.githubusercontent.com/nabilasalsabilaa/nabilasalsabilaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
   </div>
     </td>
   </tr>
