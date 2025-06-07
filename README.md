@@ -12,30 +12,30 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%;">
+<div style="display: table; width: 100%;">
+  <div style="display: table-row;">
+    <!-- Kiri -->
+    <div style="display: table-cell; vertical-align: top; text-align: left; width: 60%;">
+      
+### 🎓 About Me
+- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
+- 📱 Reach me on:  
+  <a href="https://instagram.com/nslsabilaaa_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
+- 🪄 Pronouns: `bukan sulap, tapi she/her`  
+- 😴 Fun fact: `Turu number one`
 
-  <!-- Kiri: About Me -->
-  <div style="flex: 1; min-width: 300px; text-align: left;">
+    </div>
 
-  ### 🎓 About Me
-  - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
-  - 📱 Reach me on:  
-    <a href="https://instagram.com/nslsabilaaa_">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>  
-  - 🪄 Pronouns: `bukan sulap, tapi she/her`  
-  - 😴 Fun fact: `Turu number one`
-
+    <!-- Kanan -->
+    <div style="display: table-cell; vertical-align: top; text-align: right; width: 40%;">
+      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+    </div>
   </div>
-
-  <!-- Kanan: GIF -->
-  <div style="flex: 1; min-width: 200px; text-align: right;">
-    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
-  </div>
-
 </div>
 
 ---
