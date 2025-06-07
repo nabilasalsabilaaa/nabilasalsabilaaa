@@ -12,11 +12,9 @@
 
 ---
 
-<div style="display: table; width: 100%;">
-  <div style="display: table-row;">
-    <!-- Kiri -->
-    <div style="display: table-cell; vertical-align: top; text-align: left; width: 60%;">
-      
+<div align="center">
+  <div style="display: inline-block; text-align: left; width: 60%; vertical-align: top;">
+    
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
 - 📱 Reach me on:  
@@ -29,12 +27,10 @@
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
 
-    </div>
+  </div>
 
-    <!-- Kanan -->
-    <div style="display: table-cell; vertical-align: top; text-align: right; width: 40%;">
-      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
-    </div>
+  <div style="display: inline-block; text-align: right; width: 35%; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
   </div>
 </div>
 
