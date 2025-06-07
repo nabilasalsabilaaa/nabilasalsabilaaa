@@ -12,9 +12,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="60%" valign="top" style="border: none; background: transparent;">
     
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
@@ -29,12 +29,13 @@
 - 😴 Fun fact: `Turu number one`
 
     </td>
-      <td width="40%" align="right">
-<img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
-      </td>
-    </tr>
+<td width="40%" align="right" valign="top" style="border: none; background: transparent; text-align: right;">
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
+  </div>
+    </td>
+  </tr>
 </table>
-
 
 ---
 
