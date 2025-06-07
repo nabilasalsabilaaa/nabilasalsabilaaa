@@ -30,7 +30,7 @@
 
     </td>
     <td width="40%" valign="top" align="right" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/nabilasalsabilaa/nabilasalsabilaa/refs/heads/main/no-wakeup.gif" width="200" height="200" alt="No Wake Up Gif" />
+      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="200" height="200" alt="No Wake Up Gif" />
     </td>
   </tr>
 </table>
