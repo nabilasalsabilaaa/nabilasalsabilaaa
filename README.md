@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=nabilasalsabilaa&label=Visitors&countColor=%2311336E&style=flat-square" />
+  <img src="https://profile-counter.glitch.me/nabilasalsabilaa/count.svg" />
 </p>
 
 ---
@@ -24,7 +24,8 @@
   </a>
   <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
+  </a>
+  
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
 
