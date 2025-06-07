@@ -8,11 +8,11 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/nabilasalsabilaa/count.svg" />
 </p>
-
 ---
+
 <div align="center">
   
-<table>
+<table style="width: 80%">
   <tr>
     <td valign="top" width="60%">
       
@@ -30,12 +30,14 @@
 - 😴 Fun fact: `Turu number one`
 
 </td>
-    <td valign="top" width="40%" 
+    <td valign="top" width="40%">
       <p align="right">
       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+      </p>
     </td>
   </tr>
 </table>
+
 </div>
 ---
 
