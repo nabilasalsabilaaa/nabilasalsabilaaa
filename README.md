@@ -12,12 +12,11 @@
 
 ---
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 100%;">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; max-width: 800px;">
+  <!-- Kiri: About Me -->
+  <div style="flex: 1; min-width: 300px; text-align: left;">
 
-  <div style="flex: 1; min-width: 250px; text-align: left;">
-    
   ### 🎓 About Me
   - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
   - 📱 Reach me on:  
@@ -29,17 +28,15 @@
     </a>  
   - 🪄 Pronouns: `bukan sulap, tapi she/her`  
   - 😴 Fun fact: `Turu number one`
-    
+
   </div>
 
+  <!-- Kanan: GIF -->
   <div style="flex: 1; min-width: 200px; text-align: right;">
     <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
   </div>
 
 </div>
-
-</div>
-
 
 ---
 
