@@ -32,7 +32,7 @@
   </div>
 
   <!-- GIF kanan -->
-  <div style="width: 10%; text-align: right;">
+  <div style="width: 90%; text-align: right;">
     <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
   </div>
 
