@@ -4,23 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=11336E&center=true&vCenter=true&width=435&lines=Information+System+Student;At+Hasanuddin+University" alt="Typing SVG" />
 </p>
 
+---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nabilasalsabilaa/count.svg" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=nabilasalsabilaa&label=Visitors&countColor=%2311336E&style=flat-square" />
 </p>
 
 ---
-
 <div align="center">
-
+  
 <table>
   <tr>
     <td valign="top" width="60%">
-
-<h3>🎓 About Me</h3>
-
-- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
+      
+### 🎓 About Me
+- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
 - 📱 Reach me on:  
-  <a href="https://instagram.com/nslsabilaaa_">
+ <a href="https://instagram.com/nslsabilaaa_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
@@ -30,22 +29,19 @@
 - 😴 Fun fact: `Turu number one`
 
 </td>
-<td valign="top" width="40%">
-  <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
-</td>
-</tr>
+    <td valign="top" width="40%" 
+      <p align="right">
+      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+    </td>
+  </tr>
 </table>
-
 </div>
-
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -65,6 +61,4 @@
 ---
 
 ### 🎯 Quote of the Day
-<p align="center">
-  <i>“Yap life goes on, so jalanin aja.”</i>
-</p>
+> “Yap life goes on, so jalanin aja.”
