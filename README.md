@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<table style="width: 80%;">
+<table style="width: 80%; background-color: transparent; border: none;">
   <tr>
     <td valign="top" width="60%">
 
