@@ -12,24 +12,24 @@
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="60%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
-    
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top" style="border: none; padding: 0;">
+      
 ### 🎓 About Me
 - 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`  
 - 📱 Reach me on:  
   <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
 
     </td>
-    <td width="40%" valign="top" align="right" style="border: none; background: transparent;">
+    <td width="40%" valign="top" align="right" style="border: none; padding: 0;">
       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="200" height="200" alt="No Wake Up Gif" />
     </td>
   </tr>
