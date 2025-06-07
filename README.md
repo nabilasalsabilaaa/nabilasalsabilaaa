@@ -12,8 +12,10 @@
 
 ---
 
-<div align="center">
-  <div style="display: inline-block; text-align: left; width: 60%; vertical-align: top;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+
+  <!-- About Me kiri -->
+  <div style="width: 60%; text-align: left;">
     
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
@@ -29,10 +31,13 @@
 
   </div>
 
-  <div style="display: inline-block; text-align: right; width: 35%; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+  <!-- GIF kanan -->
+  <div style="width: 35%; text-align: right;">
+    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
   </div>
+
 </div>
+
 
 ---
 
