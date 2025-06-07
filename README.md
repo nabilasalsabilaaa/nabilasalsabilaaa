@@ -12,9 +12,34 @@
 
 ---
 
-| 🎓 About Me | ![Sleeping gif](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif) |
-|------------|----------------|
-| 🌱 **Learning**: `Python`, `Java`, `C++`, `tpi boonk awokawok`<br>📱 **Reach me**: [Instagram](https://instagram.com/nslsabilaaa_) / [LinkedIn](https://www.linkedin.com/in/nabila-salsabila-964511358)<br>🪄 **Pronouns**: `bukan sulap, tapi she/her`<br>😴 **Fun fact**: `Turu number one` | <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="160"/> |
+<div align="center">
+
+<table style="width: 80%;">
+  <tr>
+    <td valign="top" width="60%">
+
+### 🎓 About Me
+- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
+- 📱 Reach me on:  
+  <a href="https://instagram.com/nslsabilaaa_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
+- 🪄 Pronouns: `bukan sulap, tapi she/her`  
+- 😴 Fun fact: `Turu number one`
+
+</td>
+    <td valign="top" width="40%">
+      <p align="right">
+        <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
