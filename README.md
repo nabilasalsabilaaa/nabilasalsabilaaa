@@ -33,7 +33,7 @@
 
     </td>
     <td>
-       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="300" />
+       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="350" />
     </td>
   </tr>
 </table>
