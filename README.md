@@ -12,35 +12,30 @@
 
 ---
 
-<div align="center">
-  
-<table style="width: 80%">
+<table>
   <tr>
-    <td valign="top" width="60%">
-      
-### 🎓 About Me
-- 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`
-- 📱 Reach me on:  
- <a href="https://instagram.com/nslsabilaaa_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-- 🪄 Pronouns: `bukan sulap, tapi she/her`  
-- 😴 Fun fact: `Turu number one`
-
-</td>
-    <td valign="top" width="40%">
-      <p align="right">
-      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200"/>
-      </p>
+    <td>
+      <h3>🎓 About Me</h3>
+      <ul>
+        <li>🌱 Learning: <code>Python</code>, <code>Java</code>, <code>C++</code>, tpi boonk awokawok</li>
+        <li>📱 Reach me on:
+          <a href="https://instagram.com/nslsabilaaa_">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+          </a>
+          <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
+        </li>
+        <li>🪄 Pronouns: <code>bukan sulap, tapi she/her</code></li>
+        <li>😴 Fun fact: <code>Turu number one</code></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="180"/>
     </td>
   </tr>
 </table>
 
-</div>
 
 ---
 
