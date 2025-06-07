@@ -12,10 +12,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-
-  <!-- About Me kiri -->
-  <div style="width: 60%; text-align: left;">
+<table>
+  <tr>
+    <td width="60%" valign="top">
     
 ### 🎓 About Me
 - 🌱 Learning: `Python`, `Java`, `C++`, `tpi boonk awokawok`  
@@ -29,14 +28,12 @@
 - 🪄 Pronouns: `bukan sulap, tapi she/her`  
 - 😴 Fun fact: `Turu number one`
 
-  </div>
-
-  <!-- GIF kanan -->
-  <div style="width: 90%; text-align: right;">
-    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
-  </div>
-
-</div>
+    </td>
+      <td width="40%" align="right">
+<img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="200" height="200" />
+      </td>
+    </tr>
+</table>
 
 
 ---
