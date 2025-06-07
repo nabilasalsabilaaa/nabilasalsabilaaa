@@ -12,30 +12,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>🎓 About Me</h3>
-      <ul>
-        <li>🌱 Learning: <code>Python</code>, <code>Java</code>, <code>C++</code>, tpi boonk awokawok</li>
-        <li>📱 Reach me on:
-          <a href="https://instagram.com/nslsabilaaa_">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-          </a>
-          <a href="https://www.linkedin.com/in/nabila-salsabila-964511358">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-          </a>
-        </li>
-        <li>🪄 Pronouns: <code>bukan sulap, tapi she/her</code></li>
-        <li>😴 Fun fact: <code>Turu number one</code></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="180"/>
-    </td>
-  </tr>
-</table>
-
+| 🎓 About Me | ![Sleeping gif](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif) |
+|------------|----------------|
+| 🌱 **Learning**: `Python`, `Java`, `C++`, `tpi boonk awokawok`<br>📱 **Reach me**: [Instagram](https://instagram.com/nslsabilaaa_) / [LinkedIn](https://www.linkedin.com/in/nabila-salsabila-964511358)<br>🪄 **Pronouns**: `bukan sulap, tapi she/her`<br>😴 **Fun fact**: `Turu number one` | <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/refs/heads/main/no-wakeup.gif" width="160"/> |
 
 ---
 
