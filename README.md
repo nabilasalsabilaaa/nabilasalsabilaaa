@@ -32,7 +32,7 @@
 
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/nabilasalsabilaa/nabilasalsabilaa/main/no-wakeup.gif" width="200" height="200" alt="No Wake Up Gif" />
+      ![No Wake Up Gif](https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaa/main/no-wakeup.gif)
     </td>
   </tr>
 </table>
