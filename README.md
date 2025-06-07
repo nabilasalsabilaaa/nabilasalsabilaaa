@@ -12,28 +12,37 @@
 
 ---
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<div align="center">
+
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="60%" valign="top" style="border: none; padding: 0;">
-      
-### 🎓 About Me
-- 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`  
-- 📱 Reach me on:  
-  <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
-- 🪄 Pronouns: `bukan sulap, tapi she/her`  
-- 😴 Fun fact: `Turu number one`
+    <td valign="top" style="border: none; padding: 0 20px 0 0;">
+
+      <h3>🎓 About Me</h3>
+      <ul align="left">
+        <li>🌱 Currently learning: <code>Python</code>, <code>Java</code>, <code>C++</code>, dan <code>tpi boonk awokawok</code></li>
+        <li>📱 Reach me on:
+          <br />
+          <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+        </li>
+        <li>🪄 Pronouns: <code>bukan sulap, tapi she/her</code></li>
+        <li>😴 Fun fact: <code>Turu number one</code></li>
+      </ul>
 
     </td>
-    <td width="40%" valign="top" align="right" style="border: none; padding: 0;">
+    <td valign="top" style="border: none; padding: 0;">
       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="200" height="200" alt="No Wake Up Gif" />
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
