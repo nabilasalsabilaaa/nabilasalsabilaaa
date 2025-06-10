@@ -20,18 +20,18 @@
 - 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
 - 📱 Connect w/ me:
   
-  <a href="https://instagram.com/nslsabilaaa_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/bwakekoqq" target="_blank">
-    <img src="https://img.shields.io/badge/X-%181717.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
-  <a href="https://www.linkedin.com/in/naabiilasalsabilaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
+  <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://x.com/bwakekoqq" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-%23181717.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:naabiilasalsabilaa@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">
+</a>
 - 🪄 Pronouns: `bukan sulap, tapi she/her`
 - 😴 Fun fact: `Turu number one`
 
