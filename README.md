@@ -12,11 +12,12 @@
 
 ---
 
+### 🎓 About Me
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
 
-### 🎓 About Me
 - 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
 - 📱 Connect w/ me:
   
@@ -34,8 +35,6 @@
 </a>
 - 🪄 Pronouns: `bukan sulap, tapi she/her`
 - 😴 Fun fact: `Turu number one`
-
----
 
     </td>
     <td>
