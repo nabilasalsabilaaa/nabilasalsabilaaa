@@ -18,10 +18,13 @@
 
 ### 🎓 About Me
 - 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
-- 📱 Reach me on:
+- 📱 Connect w/ me:
   
   <a href="https://instagram.com/nslsabilaaa_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/bwakekoqq" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nabila-salsabila-964511358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
