@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nabilasalsabilaa/count.svg" alt="Profile Visit Counter" />
+  <img src="https://profile-counter.glitch.me/nabilasalsabilaaa/count.svg" alt="Profile Visit Counter" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
