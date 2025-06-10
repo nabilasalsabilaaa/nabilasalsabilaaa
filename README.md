@@ -35,6 +35,8 @@
 - 🪄 Pronouns: `bukan sulap, tapi she/her`
 - 😴 Fun fact: `Turu number one`
 
+---
+
     </td>
     <td>
        <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="400" />
