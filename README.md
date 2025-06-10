@@ -12,16 +12,14 @@
 
 ---
 
-### 🎓 About Me
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+🎓 About Me
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td width="50%" valign="top" align="left">
 
-- 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
-- 📱 Connect w/ me:
-  
-  <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
+🌱 Currently learning: Python, Java, C++, dan tpi boonk awokawok
+📱 Connect w/ me:
+<a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://x.com/bwakekoqq" target="_blank" rel="noopener noreferrer">
@@ -33,41 +31,36 @@
 <a href="mailto:naabiilasalsabilaa@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">
 </a>
-- 🪄 Pronouns: `bukan sulap, tapi she/her`
-- 😴 Fun fact: `Turu number one`
 
-    </td>
-    <td>
-       <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="400" />
-    </td>
-  </tr>
+🪄 Pronouns: bukan sulap, tapi she/her
+😴 Fun fact: Turu number one
+  </td>
+  <td width="50%" valign="top" align="right">
+    <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="400" />
+  </td>
+</tr>
+
+
 </table>
 
----
-
-### 🧰 Tech Stack
+🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=radical" width="300" />
 </p>
 
----
-
-### 🏆 GitHub Trophy
+🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
----
+🎯 Quote of the Day
 
-### 🎯 Quote of the Day
-> “Yap life goes on, so jalanin aja.”
+"Yap life goes on, so jalanin aja."
