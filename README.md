@@ -12,11 +12,12 @@
 
 ---
 
-### 🎓 Me?
+### 😶‍🌫️ Me?
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%" valign="top" align="center">
+    <td width="50%" valign="top" align="left">
 
+- 🤦‍♀️ Hidup kadang kiding kkjdkjjsjgfhsgdfherhfvnerfyyu gsdhvcbvdnbvchh
 - 🪄 Pronouns: `Bukan sulap, tapi she/her`               
 - 😴 Hobi: `Turu number one`                                 
 - 📱 Cari saya di:
@@ -42,7 +43,7 @@
 
 --- 
 
-#### 🧰 Tech 
+#### 🧰 Tech?
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -51,29 +52,26 @@
 
 ---
 
-**Stats**
+#### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=radical" width="400" />
 </p>
 
-**Lang?**
+#### 🐦‍⬛ Lang?
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=blue-green" width="300" />
 </p>
 
-**Stre4k**
+#### 🦤Apa?
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilasalsabilaaa&theme=dark&hide_border=false" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilasalsabilaaa&theme=nightowl&hide_border=false" width="400" />
 </p>
 
-
-### 🏆 GitHub Trophy
+#### 🐧 Ha?
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🎯 Quote of the Day
-
->"Yap life goes on, so jalanin aja."
+#### Life goes on, jalanin aja
