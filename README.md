@@ -54,7 +54,7 @@
 
 #### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=monokai" width="400" />
 </p>
 
 #### 🐦‍⬛ Lang?
