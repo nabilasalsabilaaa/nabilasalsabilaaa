@@ -12,15 +12,14 @@
 
 ---
 
-### 🎓 About Me
+### 🎓 Me?
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top" align="left">
 
-- 🌱 Currently learning: `Python`, `Java`, `C++`, dan `tpi boonk awokawok`
-- 🪄 Pronouns: `bukan sulap, tapi she/her`
-- 😴 Fun fact: `Turu number one`
-- 📱 Connect w/ me:
+- 🪄 Pronouns: `Bukan sulap, tapi she/her`
+- 😴 Hobi: `Turu number one`
+- 📱 Cari saya di:
   
 <a href="https://instagram.com/nslsabilaaa_" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -55,10 +54,16 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=radical" width="400" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=radical" width="300" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=radical" width="400" />
+</p>
+
 
 ### 🏆 GitHub Trophy
 <p align="center">
