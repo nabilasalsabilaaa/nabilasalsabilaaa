@@ -15,7 +15,7 @@
 ### 🎓 Me?
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%" valign="top" align="left">
+    <td width="100%" valign="top" align="center">
 
 - 🪄 Pronouns: `Bukan sulap, tapi she/her`               
 - 😴 Hobi: `Turu number one`                                 
