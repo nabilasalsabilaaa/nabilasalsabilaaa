@@ -13,9 +13,9 @@
 ---
 
 ### 😶‍🌫️ Me?
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="100" cellspacing="100">
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="100%" valign="top" align="left">
 
 - 🤦‍♀️ Hidup kadang kiding kkjdkjjsjgfhsgdfherhfvnerfyyu gsdhvcbvdnbvchh
 - 🪄 Pronouns: `Bukan sulap, tapi she/her`               
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   </td>
-  <td width="50%" valign="top" align="right">
+  <td width="100%" valign="top" align="right">
     <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/main/no-wakeup.gif" width="400" />
   </td>
 </tr>
@@ -44,7 +44,7 @@
 --- 
 
 #### 🧰 Tech?
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
