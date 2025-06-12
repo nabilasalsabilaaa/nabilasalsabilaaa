@@ -53,23 +53,23 @@
 ---
 
 #### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=monokai" width="400" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilasalsabilaaa&show_icons=true&theme=nightowl" width="400" />
 </p>
 
 #### 🐦‍⬛ Lang?
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=blue-green" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasalsabilaaa&layout=compact&theme=nightowl" width="400" />
 </p>
 
 #### 🦤Apa?
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nabilasalsabilaaa&theme=nightowl&hide_border=false" width="400" />
 </p>
 
 #### 🐧 Ha?
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabilasalsabilaaa&theme=nightowl&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
