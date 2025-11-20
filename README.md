@@ -148,17 +148,14 @@
 
 ---
 
-<h3 align="center">🐍 My Contribution Snake</h3>
-
 <p align="center">
-  <img src="https://github.com/nabilasalsabilaaa/nabilasalsabilaaa/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <div align="center">
 
-### 💫 Quote
-![]Yaudah sih maumi diapa
+Yaudah sih maumi diapa
 
 </div>
