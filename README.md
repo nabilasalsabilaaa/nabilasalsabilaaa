@@ -146,8 +146,13 @@
   </tr>
 </table>
 
+---
 
+<h3 align="center">🐍 My Contribution Snake</h3>
 
+<p align="center">
+  <img src="https://github.com/nabilasalsabilaaa/nabilasalsabilaaa/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
