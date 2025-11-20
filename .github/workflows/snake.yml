@@ -8,22 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Snake Game
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
+      - name: Generate Snake SVG (Blue Pink Black Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: nabilasalsabilaaa
           outputs: |
-            github-contribution-grid-snake.svg?color_snake=#4a90e2&color_dots=#050608,#111322,#1f243a,#ff66cc,#ff9ad5
+            dist/github-contribution-grid-snake.svg
+          color_snake: "#4a90e2"           # biru glow
+          color_dots: "#0c0c14,#181824,#27293a,#ff2ec1,#ff8fde"
+          color_border: "#000000"         # hitam
+          background: "#000000"           # hitam full
 
-
-      - name: Upload to GitHub
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          publish_branch: gh-pages
