@@ -149,7 +149,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabilasalsabilaaa/nabilasalsabilaaa/gh-pages/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/nabilasalsabilaaa/nabilasalsabilaaa/raw/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
